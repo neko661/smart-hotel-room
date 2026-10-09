@@ -1,0 +1,8 @@
+{
+  "name": "@commons/datastore",
+  "version": "1.0.0",
+  "description": "数据持久化模块",
+  "dependencies": {
+    "@commons/utils": "file:../utils"
+  }
+}

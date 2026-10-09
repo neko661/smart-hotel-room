@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "curtain",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "窗帘控制功能模块",
+    "installationFree": false
+  }
+}

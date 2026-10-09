@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "network",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "网络请求模块",
+    "installationFree": false
+  }
+}

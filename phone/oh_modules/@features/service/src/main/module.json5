@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "service",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "客房服务功能模块",
+    "installationFree": false
+  }
+}

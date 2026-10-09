@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "uicomponents",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "基础UI组件模块",
+    "installationFree": false
+  }
+}

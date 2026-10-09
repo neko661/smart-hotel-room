@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "light",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "灯光控制功能模块",
+    "installationFree": false
+  }
+}

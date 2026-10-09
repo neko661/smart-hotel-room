@@ -1,0 +1,11 @@
+{
+  "name": "@features/curtain",
+  "version": "1.0.0",
+  "description": "窗帘控制模块",
+  "dependencies": {
+    "@commons/datastore": "file:../../commons/datastore",
+    "@commons/utils": "file:../../commons/utils",
+    "@commons/uicomponents": "file:../../commons/uicomponents",
+    "@commons/network": "file:../../commons/network"
+  }
+}

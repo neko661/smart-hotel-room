@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "home",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "首页功能模块",
+    "installationFree": false
+  }
+}

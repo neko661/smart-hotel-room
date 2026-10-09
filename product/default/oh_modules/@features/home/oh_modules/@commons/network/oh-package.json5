@@ -1,0 +1,8 @@
+{
+  "name": "@commons/network",
+  "version": "1.0.0",
+  "description": "网络请求模块",
+  "dependencies": {
+    "@commons/datastore": "file:../datastore"
+  }
+}

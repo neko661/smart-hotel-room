@@ -1,0 +1,11 @@
+{
+  "name": "@features/light",
+  "version": "1.0.0",
+  "description": "灯光控制模块",
+  "dependencies": {
+    "@commons/datastore": "file:../../commons/datastore",
+    "@commons/utils": "file:../../commons/utils",
+    "@commons/uicomponents": "file:../../commons/uicomponents",
+    "@commons/network": "file:../../commons/network"
+  }
+}

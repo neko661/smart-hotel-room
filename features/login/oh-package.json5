@@ -1,0 +1,10 @@
+{
+  "name": "@features/login",
+  "version": "1.0.0",
+  "description": "登录模块",
+  "dependencies": {
+    "@commons/datastore": "file:../../commons/datastore",
+    "@commons/utils": "file:../../commons/utils",
+    "@commons/uicomponents": "file:../../commons/uicomponents"
+  }
+}

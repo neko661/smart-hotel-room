@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "datastore",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "description": "数据持久化模块",
+    "installationFree": false
+  }
+}

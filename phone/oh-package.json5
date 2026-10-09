@@ -1,0 +1,15 @@
+{
+  "name": "@app/phone",
+  "version": "1.0.0",
+  "description": "手机端主入口模块",
+  "dependencies": {
+    "@commons/datastore": "file:../commons/datastore",
+    "@commons/utils": "file:../commons/utils",
+    "@commons/uicomponents": "file:../commons/uicomponents",
+    "@features/login": "file:../features/login",
+    "@features/home": "file:../features/home",
+    "@features/light": "file:../features/light",
+    "@features/curtain": "file:../features/curtain",
+    "@features/service": "file:../features/service"
+  }
+}

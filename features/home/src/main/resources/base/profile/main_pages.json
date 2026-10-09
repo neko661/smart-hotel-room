@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/LaunchPage",
+    "pages/AppNavigation",
+    "pages/RoomServicePage",
+    "pages/CartPage",
+    "pages/OrderListPage",
+    "pages/FeedbackPage"
+  ]
+}
